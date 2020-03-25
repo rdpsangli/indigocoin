@@ -1,0 +1,2 @@
+# indigocoin
+Indigo Coin
